@@ -11,7 +11,10 @@ Important notes
 
 Build of materials 
 -------------------
-- to be added
+- Many M3 machine screws  of a variety of lengths (mostly 10mm or longer).  I use socket head screws for which the models are countersunk for.
+- Many M3 square nuts (maximum dimensions allowed (LxWxH) : 5.4 x 5.4 x 2.5 mm)  Here is a product that will work : https://www.amazon.com/Honbay-100pcs-Stainless-Steel-Square/dp/B06XPFLNBS/ref=sr_1_2?dchild=1&keywords=m3+square+nut&qid=1588553497&sr=8-2
+
+* more to be added
 
 Contributors
 ------------------- 

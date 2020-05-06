@@ -18,4 +18,9 @@ Build of materials
 
 Contributors
 ------------------- 
-- to be added
+- Gael Langevin :  Provided the original, unmodified inmoov skull and ear models (http://inmoov.fr/)
+- Spawn32  : Completed daily testing, printing, and assembling of all the advanced head mechanisms. Provided crucial suggestions for improvements  and sped up the design process 2-fold. 
+- Dakota76  : Provided the structural basis for the eye mechanism with his advanced eye mechanism (https://www.thingiverse.com/thing:2548952)  Updates were made to his designs to improve existing movements, add new movements, and add raspi v2 cameras
+- 4ndreas  : Provided the "Rectilinear motion actuator" mechanism used and modified for all head bob motions, jaw forward/backward motions, and eyebrow up/down motion  ( https://www.thingiverse.com/thing:340557)
+- MakerBot : Provided the models for the teeth (https://www.thingiverse.com/thing:26776)
+
